@@ -76,7 +76,7 @@ Escolhe um pivo e divide os elementos em partes menores e maiores que ele. Em se
 
 Sua complexidade de tempo media e O(n log n), embora no pior caso possa chegar a O(n²).
 
-## Comparacao
+## Comparação
 
 Os dois algoritmos recebem os mesmos dez produtos. Para evitar que a primeira ordenacao altere a segunda, o programa cria copias independentes da lista original.
 
@@ -84,7 +84,7 @@ Ambos devem apresentar os produtos em ordem crescente de preco.
 
 ## Autor
 
-Lucas Emanuel
+Lucas Emanuel Martins Beserra
 
 ## Arquivo principal
 
