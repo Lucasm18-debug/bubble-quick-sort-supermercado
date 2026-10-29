@@ -1,4 +1,4 @@
-# Classificador de Precos de Supermercado
+# Classificador de Preços de Supermercado
 
 ## Objetivo
 
